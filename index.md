@@ -21,8 +21,10 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- 
-
+- *I love the CS193 TAs coz they are sooooooooo fun and cool.*
+- _CS193 is a class chill enough that you can not only learn new tools for your core classes but also get advice from TAs and have fun!_
+-
+-
 1. Numbered
 2. List
 
